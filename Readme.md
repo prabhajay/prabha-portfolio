@@ -4,7 +4,7 @@
 
 -- Dark mode
 
-<img src="img/portfolio/home.png">
+<img src="./img/portfolio/home.png">
 
 
 about1.png
