@@ -4,50 +4,50 @@
 
 -- Dark mode
 
-<img src="./img/portfolio/home.png">
+<img src="./img/Portfolio/home.png">
 
 
-about1.png
+<img src="./img/Portfolio/about1.png">
 
 
-about2.png
+<img src="./img/Portfolio/about2.png">
 
 
-portfolio.png
+<img src="./img/Portfolio/portfolio.png">
 
 
-portfolio2.png
+<img src="./img/Portfolio/portfolio2.png">
 
 
-portfolio3.png
+<img src="./img/Portfolio/portfolio3.png">
 
 
-work ex.png
+<img src="./img/Portfolio/work ex.png">
 
 
-contact.png
+<img src="./img/Portfolio/contact.png">
 
 --Light mode
 
-home.png
+<img src="./img/Portfolio/Light/home.png">
 
 
-about1.png
+<img src="./img/Portfolio/Light/about1.png">
 
 
-about2.png
+<img src="./img/Portfolio/Light/about2.png">
 
 
-portfolio1.png
+<img src="./img/Portfolio/Light/portfolio1.png">
 
 
-portfolio2.png
+<img src="./img/Portfolio/Light/portfolio2.png">
 
 
-portfolio3.png
+<img src="./img/Portfolio/Light/portfolio3.png">
 
 
-work ex.png
+<img src="./img/Portfolio/Light/work ex.png">
 
 
-contact.png
+<img src="./img/Portfolio/Light/contact.png">
