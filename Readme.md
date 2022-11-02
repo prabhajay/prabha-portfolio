@@ -1,6 +1,6 @@
 ### LAKSHMI PRABHA JAYAKUMAR PORTFOLIO
 
- I created my portfolio like home, about, portfolio, work experience and contact pages.
+         I created my portfolio like home, about, portfolio, work experience and contact pages.
 
 -- Dark mode
 
