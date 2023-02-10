@@ -1,12 +1,8 @@
 ### LAKSHMI PRABHA JAYAKUMAR PORTFOLIO
 
        
- <video width="700" height="700" controls>
- 
-
+ <video controls width="700" height="700">
   <source src="./img/portfolio_video.mp4" type="video/mp4">
-         
-  
   </video>
   
  <a href="#" src="https://clipchamp.com/watch/4VbE7uJ35Mh"> Prabha Portfolio video</a>
