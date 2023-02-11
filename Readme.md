@@ -12,7 +12,7 @@
 
 <img width="750" alt="image" src="./img/display/home.png">
 
-<img width="750" alt="image" src="./img/display/project1.png">
+<img width="750" alt="image" src="./img/display/project.png">
 
 <img width="750" alt="image" src="./img/display/project2.png">
 
